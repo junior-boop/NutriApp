@@ -1,0 +1,206 @@
+[
+    {
+        "titre" : "Okok Eton",
+        "aliment" : "okok",
+        "id" : 1,
+        "image" : "https://pbs.twimg.com/media/EZgTDFBX0AUGoFa.jpg",
+        "createAt" : "23 Aout 2023",
+        "type" : "recettes",
+        "content" : [
+            {
+                "type" : "bloc",
+                "value" : "Le Gnetum spp encore appelé “Okok” “Ikok” “Eru”… peut aussi être cuisiné de plusieurs façons dans nos différentes régions au Cameroun. Ici c’est cuisiné comme chez les Eton chez les Bétis."
+            },
+            {
+                "type" : "bloc",
+                "Value" : "Pour la petite histoire, le sucre ne faisait pas partie de la recette de nos grands-mères. Pour édulcorer ce type de plats, elles mélangeaient aux noix de palme quelques patates douces ou quelques doigts de banane plantain bien mûres et cuits qu’elles pilaient ensemble. Merci Bienvenu Onana pour la découverte."
+            },
+            {
+                "type" : "bloc",
+                "value" : "La technique de précuire l’okok dans un emballage plastique n’étant plus d’actualité car ne respectant pas les normes de l’environnement. Nous optons désormais pour le trempage de l’okok quelques heures avant ( au moins 4h) ou la veille vous pouvez aussi le frire si vous voulez."
+            },
+            {
+                "type" : "bloc",
+                "value" : "Attention aux kilos car c’est un plat très calorifique. Mais bon ! Faisons-nous plaisir de temps à autre!"
+            },
+            {
+                "type" : "titre_4",
+                "value" : "Instructions"
+            },
+            {
+                "type": "titre_2",
+                "value" : "Step 1"
+            },
+            {
+                "type" :"bloc",
+                "value" : " La veille ou 4 h avant, trempez l’okok dans une grande quantité d’eau."
+            },
+            {
+                "type" : "titre_2",
+                "value" : "Step 2"
+            },
+            {
+                "type" : "bloc",
+                "value" :" Grillez légèrement les arachides afin de les moudre. Réservez !."
+            },
+            {
+                "type" : "titre_2",
+                "value" : "Step 3"
+            },
+            {
+                "type" : "bloc",
+                "value" : "Bouillir les noix de palme pendant 20 minutes. Dans cette marmite qui contient vos noix de palme, vous pouvez aussi introduire vos feuilles d’okok bien emballées dans des feuilles de bananier sous forme de papillote pour qu'elles n'entrent pas en contact avec l'eau. Une technique qui consiste à précuire l'okok."
+            },
+            {
+                "type" : "titre_2",
+                "value" : "Step 4"
+            },
+            {
+                "type" :"bloc",
+                "value" : " Au bout de 20 ou 25 minutes, ôtez-les du feu et égouttez vos noix dans une passoire. Vous pouvez à présent piler votre okok pour le rendre un peu plus tendre car comme nous le savons, l'okok est un légume dur. "
+            },
+            {
+                "type" : "titre_2",
+                "value" : "Step 5"
+            },
+            {
+                "type" : "bloc",
+                "value" : "A partir de cette étape, vous avez 2 options : Si votre okok est précuit, salez et portez à ébullition le suc de noix de palme, les arachides et laissez le mélange s’épaissir avant d’ajouter l’okok. Si l’okok n’est pas précuit, juste trempé, portez à ébullition l’okok pressé et le suc de noix de palme ensemble pour permettre à l’okok de s’attendrir rapidement. Salez avant d’ajouter les arachides. Mélangez correctement l’arachide dans la sauce."
+            },
+            {
+                "type" : "titre_2",
+                "value" :"Step 6"
+            },
+            {
+                "type" : "bloc",
+                "value" : "Mettre les noix dans un mortier et les piler correctement. Ensuite, extraire&nbsp;le suc de noix de palme. Assurez-vous que la pulpe soit bien séparée du noyau de la noix et le verser dans la marmite de préparation. "
+            },
+            {
+                "type" : "titre_2",
+                "value" :"Step 7"
+            },
+            {
+                "type" : "bloc",
+                "value" : "Laissez mijoter sur feu doux pendant une trentaine de minutes. Remuez de temps à autre."
+            },
+            {
+                "type" : "titre_2",
+                "value" : "Step 8"
+            },
+            {
+                "type" : "bloc",
+                "value" : "Dès que la sauce commence à s’épaissir, ajoutez le sucre et mélangez. Vous pouvez aussi ajouter le sucre en fin de cuisson."
+            },
+            {
+                "type" : "titre_2",
+                "value" : "Step 9"
+            },
+            {
+                "type" : "bloc",
+                "value" : "Laissez mijoter et attendre que l’huile remonte à la surface. "
+            },
+            {
+                "type" : "titre_2",
+                "value" : "Step 10"
+            },
+            {
+                "type" : "bloc",
+                "value" : " Lorsque l’huile apparaît enfin au-dessus de la préparation, laissez mijoter à feu doux pendant 3 à 5 minutes. 5 minutes avant la fin de la cuisson, ajouter le sucre et remuez bien. Votre préparation est fin prête et vous pouvez l'accompagner avec du manioc cuit à la vapeur ou du bâton de manioc."
+            }
+        ]
+    },
+    {
+        "titre" : "Eru",
+        "aliment" : "eru",
+        "id" : 2,
+        "image" : "https://i.ytimg.com/vi/x688d0yMYqQ/maxresdefault.jpg",
+        "createAt" : "23 Aout 2023",
+        "type" : "recettes",
+        "content" : [
+            {
+                "type" : "titre_4",
+                "value" : "Présentation du plat"
+            },
+            {
+                "type" : "bloc",
+                "value" : "Le eru est un plat camerounais. C'est une spécialité du peuple Banyang, originaire du département de la Manyu dans la région du Sud-Ouest du Cameroun. La recette de base contient des écrevisses, du poisson fumé et de la peau de bœuf1. L'ensemble des ingrédients est souvent difficile à trouver hors du pays."
+            },
+            {
+                "type" : "bloc",
+                "value" : "Il s'agit d'une soupe de légumes composée de feuilles d'eru ou d'okok finement râpées. L'eru est mijoté avec des feuilles d'eau ou des épinards, de l'huile de palme, des écrevisses du poisson fumé, de la peau de vache (localement appelé kanda) ou de bœuf."
+            },
+            {
+                "type" : "bloc",
+                "value" : "Ce plat est traditionnellement consommé avec du foufou ou du gari."
+            },
+            {
+                "type" : "titre_4",
+                "value" : "Préparation"
+            },
+            {
+                "type" : "bloc",
+                "value" : "Faites cuire votre viande jusqu’à ce qu’elle soit tendre"
+            },
+            {
+                "type" : "bloc",
+                "value" : "Emincez vos légumes (l’okok s’achète en général déjà émincés). Précuire l'okok durant 1 heure avec de l’eau et du sel "
+            },
+            {
+                "type" :"bloc",
+                "value" : "Rajoutez ensuite le water leaf et mélangez bien Rajoutez les 200ml d’eau et le cube d’assaisonnement, couvrez et laissez cuire jusqu’à évaporation de l’eau"
+            },
+            {
+                "type":"bloc",
+                "value" : "Lorsque l’eau s’est évaporée, rajoutez l’huile de palme, mélangez, couvrez et laissez à nouveau cuire 10 minutes environ."
+            },
+            {
+                "type" : "bloc",
+                "value" : "Servez chaud ! Accompagnez avec du water fufu."
+            }
+        ]
+    },
+    {
+        "titre" : "Ndole",
+        "aliment" : "ndole",
+        "id" : 3,
+        "image" : "https://images.squarespace-cdn.com/content/v1/5e04d1c138bd0a5d714cea2b/1615411039884-HLYF8GGIP67LFLCYN21D/Ndole-cameroon+cuisine-kengs+kitchen2.jpg",
+        "createAt" : "23 Aout 2023",
+        "type" : "recettes",
+        "content" : [
+            {
+                "type" : "titre_4",
+                "value" : "Présentation du plat"
+            },
+            {
+                "type" : "bloc",
+                "value" : "Le ndolé (ou ndolè1) est le nom camerounais de variétés alimentaires de Vernonia. Il s'agit d'un plat préparé à base d'une plante légumière dont les feuilles sont consommées vertes, mais aussi dans une moindre mesure séchées."
+            },
+            {
+                "type" : "titre_4",
+                "value" : "Préparation"
+            },
+            {
+                "type" : "bloc",
+                "value" : "Faites cuire votre viande jusqu’à ce qu’elle soit tendre"
+            },
+            {
+                "type" : "bloc",
+                "value" : "Emincez vos légumes (l’okok s’achète en général déjà émincés). Précuire l'okok durant 1 heure avec de l’eau et du sel "
+            },
+            {
+                "type" :"bloc",
+                "value" : "Rajoutez ensuite le water leaf et mélangez bien Rajoutez les 200ml d’eau et le cube d’assaisonnement, couvrez et laissez cuire jusqu’à évaporation de l’eau"
+            },
+            {
+                "type":"bloc",
+                "value" : "Lorsque l’eau s’est évaporée, rajoutez l’huile de palme, mélangez, couvrez et laissez à nouveau cuire 10 minutes environ."
+            },
+            {
+                "type" : "bloc",
+                "value" : "Servez chaud ! Accompagnez avec du water fufu."
+            }
+        ]
+    }
+]
+
+
